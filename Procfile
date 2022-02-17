@@ -1,1 +1,1 @@
-worker: bash LegendBot
+worker: bash pro_ultra_bot
