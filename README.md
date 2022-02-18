@@ -9,20 +9,20 @@
 </h6>
 
 <p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/proxmanultra/pro_ultra_bot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/proxmanultra/pro_ultra_bot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/proxmanultra/pro_ultra_bot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/proxmanultra/pro_ultra_bot?style=flat&logo=github" /> </a>
+<a href="https://github.com/proxmanultra/pro_ultra_bot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/proxmanultra/pro_ultra_bot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/proxmanultra/pro_ultra_bot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
+<a href="https://github.com/proxmanultra/pro_ultra_bot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/proxmanultra/pro_ultra_bot?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/proxmanultra/pro_ultra_bot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/proxmanultra/pro_ultra_bot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/proxmanultra/pro_ultra_bot" /> </a>
+<a href="https://github.com/proxmanultra/pro_ultra_bot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/pro_ultra_bot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
@@ -30,12 +30,14 @@
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/proxmanultra/pro_ultra_bot/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/proxmanultra/pro_ultra_bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/proxmanultra/pro_ultra_bot".
+
+/LEGENDBOT"></a><p align="left"><a href="https://github.com/proxmanultra/pro_ultra_bot?"></a>
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/pro_ultra_bot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/pro_ultra_officalbot)
 
 ------
 ## YouTube 📺
@@ -66,7 +68,7 @@
 `git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd pro_ultra_bot`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -89,7 +91,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `pro_ultra_bot_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -110,7 +112,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://te.legra.ph/file/39df0cd0bd4c550e27186.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -122,7 +124,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/The-LegendBot/LEGENDUSERBOT/LegendBot/LegendString.py && python3 LegendString.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/proxmanultra/pro_ultra_bot/proxmanultra/ULTRAXString.py && python3 ULTRAXString.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
@@ -148,7 +150,7 @@
 
 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [pro_ultra_bot](https://github.com/proxmanultra/pro_ultra_bot) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
