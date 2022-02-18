@@ -1,48 +1,46 @@
 
 
-_get_repolink () {
-    local regex
-    regex='(https?)://github.com/.+/.+'
-    if [[ $ULTRAX_REPO == "pro_ultra_bot" ]]
-    then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3Byb3htYW51bHRyYS9wcm9fdWx0cmFfYm90L2FyY2hpdmUvUFJPVUxUUkFYQk9ULnppcA==" | base64 -d
-    elif [[ $ULTRAX_REPO == "pro_ultra_bot" ]]
-    then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3Byb3htYW51bHRyYS9wcm9fdWx0cmFfYm90L2FyY2hpdmUvUFJPVUxUUkFYQk9ULnppcA==" | base64 -d
-    elif [[ $ULTRAX_REPO =~ $regex ]]
-    then
-        if [[ $ULTRAX_REPO_BRANCH ]]
-        then
-            echo "${ULTRAX_REPO}/archive/${ULTRAX_REPO_BRANCH}.zip"
-        else
-            echo "${ULTRAX_REPO}/archive/master.zip"
-        fi
-    else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL3Byb3htYW51bHRyYS9wcm9fdWx0cmFfYm90L2FyY2hpdmUvUFJPVUxUUkFYQk9ULnppcA==" | base64 -d
-    fi
-}
+#   Copyright (C) 2021 LEGEND-OS
+#
+#   Poject VΛDΣЯ is free software: 
+#   you can redistribute it and/or modify it under the terms of the GNU General Public License 
+#   as published by the Free Software Foundation, either version 3 of the License, 
+#   or (at your option) any later version.
+#
+#   This program is distributed in the hope that it will be useful, 
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+#   See the GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License along with this program. 
+#   If not, see <https://www.gnu.org/licenses/>.
+#
 
 
-_setting_bot () {
-    local zippath
-    zippath="pro_ultra_bot.zip"
-    echo "  Starting Downloading PRO_ULTRA_BOT Source Code...😎"
-    wget -q $(_get_repolink) -O "$zippath"
-    echo "  Unpacking Data Ho Raha Hai 🔐..."
-    ULTRAXPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
-    unzip -qq "$zippath"
-    echo "Done"
-    echo "  pro_ultra_bot Cleaning.."
-    rm -rf "$zippath"
-    sleep 5
-    cd $ULTRAXPATH
-    echo "    ⚜️Starting ƤЯѲ Ʋ˩ƬЯ𐀁 χ⚜️     "
-    echo "
-    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
-    "
+echo """
+ 
 
-    python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m userbot
-}
+██████╗░██████╗░░█████╗░
+██╔══██╗██╔══██╗██╔══██╗
+██████╔╝██████╔╝██║░░██║
+██╔═══╝░██╔══██╗██║░░██║
+██║░░░░░██║░░██║╚█████╔╝
+╚═╝░░░░░╚═╝░░╚═╝░╚════╝░
 
-_setting_bot
+██╗░░░██╗██╗░░░░░████████╗██████╗░░█████╗░██╗░░██╗
+██║░░░██║██║░░░░░╚══██╔══╝██╔══██╗██╔══██╗╚██╗██╔╝
+██║░░░██║██║░░░░░░░░██║░░░██████╔╝███████║░╚███╔╝░
+██║░░░██║██║░░░░░░░░██║░░░██╔══██╗██╔══██║░██╔██╗░
+╚██████╔╝███████╗░░░██║░░░██║░░██║██║░░██║██╔╝╚██╗
+░╚═════╝░╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
+
+██████╗░░█████╗░████████╗
+██╔══██╗██╔══██╗╚══██╔══╝
+██████╦╝██║░░██║░░░██║░░░
+██╔══██╗██║░░██║░░░██║░░░
+██████╦╝╚█████╔╝░░░██║░░░
+╚═════╝░░╚════╝░░░░╚═╝░░░
+"""
+rm -rf pro_ultra_bot
+git clone https://github.com/proxmanultra/pro_ultra_bot
+cd pro_ultra_bot
+python3 -m userbot
