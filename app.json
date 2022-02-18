@@ -22,7 +22,7 @@
 
       "description": "Fill your Full name. By default it is LEGEND User",
 
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "ƤЯѲ Ʋ˩ƬЯ𐀁 χ",
 
       "required": false
 
@@ -32,7 +32,7 @@
 
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
 
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "ƤЯѲ Ʋ˩ƬЯ𐀁 χ is Online",
 
       "required": false
 
@@ -82,7 +82,7 @@
 
       "description": "Set Ur Group Username",
 
-      "value": "@Legend_Userbot",
+      "value": "@pro_ultra_bot",
 
       "required": false
 
@@ -92,7 +92,7 @@
 
       "description": "Set Ur Channel Username",
 
-      "value": "@Official_LegendBot",
+      "value": "@pro_ultra_officalbot",
 
       "required": false
 
@@ -162,7 +162,7 @@
 
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
 
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "𝙸 𝚊𝚖 ƤЯѲ χ.",
 
       "required": true
 
@@ -182,7 +182,7 @@
 
       "description": "Enter Your custom pm permit msg.",
 
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ ƤЯѲ Ʋ˩ƬЯ𐀁 χ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
 
       "required": false
 
