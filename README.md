@@ -77,13 +77,13 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate ULTRAX STRING.
+- Generate pro_ultra_bot STRING.
 
 `python LegendString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start LegendBot By Vps
 
-`bash ./ULTRAXBOT/start.sh`
+`bash start.sh`
 
 ---------
 
