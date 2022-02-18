@@ -65,7 +65,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/proxmanultra/pro_ultra_bot.git`
 - Open Cloned Folder.
 
 `cd pro_ultra_bot`
@@ -77,13 +77,13 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate Legend STRING.
+- Generate ULTRAX STRING.
 
 `python LegendString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start LegendBot By Vps
 
-`bash ./LEGENDBOT/start.sh`
+`bash ./ULTRAXBOT/start.sh`
 
 ---------
 
@@ -148,7 +148,7 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
+proxmanultra
 
 Poject [pro_ultra_bot](https://github.com/proxmanultra/pro_ultra_bot) is free software: you can redistribute it and/or modify
 
