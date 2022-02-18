@@ -144,7 +144,8 @@
 
 <details>
 
-  <summary> • LICENSE • </summary>
+  <summary> • 💡 CREDITS 💞 • </summary>
+     ⚡ [LEGENDBOYOP](https://github.com/LEGEND-OS/LEGENDBOT)
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
