@@ -59,7 +59,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/506dbe95f4fb26f5c36f9.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
