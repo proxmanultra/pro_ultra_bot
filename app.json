@@ -346,12 +346,7 @@
 
     },
     
-    "PM_DATA": {
-      "description": "Type DISABLE if you want to disable pm protection... ",
-      "value": "ENABLE",
-      "required": true
-    }
-  },
+
   "addons": [{
     "plan": "heroku-postgresql",
     "options": {
